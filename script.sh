@@ -1,7 +1,8 @@
 #!/bin/bash
 
-#Jozb
+#Created by Jozb
 
+#File Path of the list of the domain
 input="/home/joz2hac/MyBash/certificate/domain.txt"
 curyear=`date +%Y`
 curmonth=`date +%m`
